@@ -52,7 +52,7 @@
 	<property name="restcomm-slee.ss7.tag" value="${restcomm-map-ra.version}" />
 	<property name="restcomm-slee.download.distro.name" value="restcomm-slee-7.2.0-wildfly-10.1.0.Final" />
 	<property name="restcomm-slee.download.distro.file" value="restcomm-slee-7.2.0-wildfly-10.1.0.Final.zip" />
-	<property name="restcomm-slee.download.url" value="https://github.com/caiocf/jain-slee/releases/download/7.2.0-172-build/restcomm-slee-7.2.0-wildfly-10.1.0.Final.zip" />
+	<property name="restcomm-slee.download.url" value="https://github.com/shaidevs/jain-slee/releases/download/7.2.0-172-build/restcomm-slee-7.2.0-wildfly-10.1.0.Final.zip" />
 	<property name="restcomm-slee.distro.zip.path" value="${checkout.dir}/restcomm-slee-7.2.0-wildfly-10.1.0.Final.zip" />
 	<property name="restcomm-jss7.download.distro.file" value="restcomm-jss7-7.4.0-162-build.zip" />
 	<property name="restcomm-jss7.download.url" value="https://github.com/caiocf/jss7/releases/download/7.4.0-162-build/restcomm-jss7-7.4.0-162-build.zip" />
